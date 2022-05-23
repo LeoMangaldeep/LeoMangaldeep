@@ -1,2 +1,3 @@
 I am Leo
 Studying C# & Testing!
+currently learning github
