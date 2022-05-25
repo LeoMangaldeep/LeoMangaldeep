@@ -1,3 +1,5 @@
 I am Leo
+How are you?
 Studying C# & Testing!
-currently learning github
+Industryconnect is best!
+Bruno is Awesome.
